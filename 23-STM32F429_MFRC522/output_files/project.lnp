@@ -1,0 +1,16 @@
+--cpu Cortex-M3
+".\output_files\core_cm3.o"
+".\output_files\system_stm32f10x.o"
+".\output_files\startup_stm32f10x_md_vl.o"
+".\output_files\misc.o"
+".\output_files\stm32f10x_gpio.o"
+".\output_files\stm32f10x_rcc.o"
+".\output_files\stm32f10x_spi.o"
+".\output_files\tm_stm32f4_gpio.o"
+".\output_files\tm_stm32f4_mfrc522.o"
+".\output_files\tm_stm32f4_spi.o"
+".\output_files\main.o"
+--strict --scatter ".\output_files\project.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\project.map" -o .\output_files\project.axf

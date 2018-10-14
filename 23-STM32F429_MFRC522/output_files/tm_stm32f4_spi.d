@@ -1,0 +1,13 @@
+.\output_files\tm_stm32f4_spi.o: TM\tm_stm32f4_spi.c
+.\output_files\tm_stm32f4_spi.o: TM\tm_stm32f4_spi.h
+.\output_files\tm_stm32f4_spi.o: .\CMSIS\stm32f10x.h
+.\output_files\tm_stm32f4_spi.o: .\CMSIS\core_cm3.h
+.\output_files\tm_stm32f4_spi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output_files\tm_stm32f4_spi.o: .\CMSIS\system_stm32f10x.h
+.\output_files\tm_stm32f4_spi.o: .\User\stm32f10x_conf.h
+.\output_files\tm_stm32f4_spi.o: .\STD_Periph_Drivers\stm32f10x_gpio.h
+.\output_files\tm_stm32f4_spi.o: .\CMSIS\stm32f10x.h
+.\output_files\tm_stm32f4_spi.o: .\STD_Periph_Drivers\stm32f10x_rcc.h
+.\output_files\tm_stm32f4_spi.o: .\STD_Periph_Drivers\stm32f10x_spi.h
+.\output_files\tm_stm32f4_spi.o: .\User\defines.h
+.\output_files\tm_stm32f4_spi.o: TM\tm_stm32f4_gpio.h

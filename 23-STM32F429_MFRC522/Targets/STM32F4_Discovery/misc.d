@@ -1,0 +1,11 @@
+.\targets\stm32f4_discovery\misc.o: STD_Periph_Drivers\misc.c
+.\targets\stm32f4_discovery\misc.o: STD_Periph_Drivers\misc.h
+.\targets\stm32f4_discovery\misc.o: .\CMSIS\stm32f10x.h
+.\targets\stm32f4_discovery\misc.o: .\CMSIS\core_cm3.h
+.\targets\stm32f4_discovery\misc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\targets\stm32f4_discovery\misc.o: .\CMSIS\system_stm32f10x.h
+.\targets\stm32f4_discovery\misc.o: .\User\stm32f10x_conf.h
+.\targets\stm32f4_discovery\misc.o: .\STD_Periph_Drivers\stm32f10x_gpio.h
+.\targets\stm32f4_discovery\misc.o: .\CMSIS\stm32f10x.h
+.\targets\stm32f4_discovery\misc.o: .\STD_Periph_Drivers\stm32f10x_rcc.h
+.\targets\stm32f4_discovery\misc.o: .\STD_Periph_Drivers\stm32f10x_spi.h

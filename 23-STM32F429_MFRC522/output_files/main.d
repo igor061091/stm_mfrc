@@ -1,0 +1,15 @@
+.\output_files\main.o: User\main.c
+.\output_files\main.o: .\CMSIS\stm32f10x.h
+.\output_files\main.o: .\CMSIS\core_cm3.h
+.\output_files\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output_files\main.o: .\CMSIS\system_stm32f10x.h
+.\output_files\main.o: .\User\stm32f10x_conf.h
+.\output_files\main.o: .\STD_Periph_Drivers\stm32f10x_gpio.h
+.\output_files\main.o: .\CMSIS\stm32f10x.h
+.\output_files\main.o: .\STD_Periph_Drivers\stm32f10x_rcc.h
+.\output_files\main.o: .\STD_Periph_Drivers\stm32f10x_spi.h
+.\output_files\main.o: User\defines.h
+.\output_files\main.o: .\TM\tm_stm32f4_mfrc522.h
+.\output_files\main.o: .\TM\tm_stm32f4_spi.h
+.\output_files\main.o: .\TM\tm_stm32f4_gpio.h
+.\output_files\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

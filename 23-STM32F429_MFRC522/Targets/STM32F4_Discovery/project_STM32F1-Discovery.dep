@@ -1,0 +1,106 @@
+Dependencies for Project 'project', Target 'STM32F1-Discovery': (DO NOT MODIFY !)
+F (.\CMSIS\core_cm3.c)(0x4C0C9ECE)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\core_cm3.o --omf_browse .\targets\stm32f4_discovery\core_cm3.crf --depend .\targets\stm32f4_discovery\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+F (.\CMSIS\system_stm32f10x.c)(0x4D788300)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\system_stm32f10x.o --omf_browse .\targets\stm32f4_discovery\system_stm32f10x.crf --depend .\targets\stm32f4_discovery\system_stm32f10x.d)
+I (CMSIS\stm32f10x.h)(0x4D788304)
+I (CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+F (.\startup\startup_stm32f10x_md_vl.s)(0x4D78831E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "STM32F10X_MD_VL SETA 1"--list .\startup_stm32f10x_md_vl.lst --xref -o .\targets\stm32f4_discovery\startup_stm32f10x_md_vl.o --depend .\targets\stm32f4_discovery\startup_stm32f10x_md_vl.d)
+F (.\STD_Periph_Drivers\misc.c)(0x4D788204)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\misc.o --omf_browse .\targets\stm32f4_discovery\misc.crf --depend .\targets\stm32f4_discovery\misc.d)
+I (STD_Periph_Drivers\misc.h)(0x4D788204)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+F (.\STD_Periph_Drivers\stm32f10x_gpio.c)(0x4D7A3516)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\stm32f10x_gpio.o --omf_browse .\targets\stm32f4_discovery\stm32f10x_gpio.crf --depend .\targets\stm32f4_discovery\stm32f10x_gpio.d)
+I (STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+F (.\STD_Periph_Drivers\stm32f10x_rcc.c)(0x4D788204)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\stm32f10x_rcc.o --omf_browse .\targets\stm32f4_discovery\stm32f10x_rcc.crf --depend .\targets\stm32f4_discovery\stm32f10x_rcc.d)
+I (STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+F (.\STD_Periph_Drivers\stm32f10x_spi.c)(0x4D788204)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\stm32f10x_spi.o --omf_browse .\targets\stm32f4_discovery\stm32f10x_spi.crf --depend .\targets\stm32f4_discovery\stm32f10x_spi.d)
+I (STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+F (.\TM\tm_stm32f4_gpio.c)(0x5BBB458A)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\tm_stm32f4_gpio.o --omf_browse .\targets\stm32f4_discovery\tm_stm32f4_gpio.crf --depend .\targets\stm32f4_discovery\tm_stm32f4_gpio.d)
+I (TM\tm_stm32f4_gpio.h)(0x5BBB3724)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+I (.\User\defines.h)(0x5B91F9D0)
+F (.\TM\tm_stm32f4_mfrc522.c)(0x5BBB3724)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\tm_stm32f4_mfrc522.o --omf_browse .\targets\stm32f4_discovery\tm_stm32f4_mfrc522.crf --depend .\targets\stm32f4_discovery\tm_stm32f4_mfrc522.d)
+I (TM\tm_stm32f4_mfrc522.h)(0x5BBB4503)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+I (TM\tm_stm32f4_spi.h)(0x5BBB4503)
+I (.\User\defines.h)(0x5B91F9D0)
+I (TM\tm_stm32f4_gpio.h)(0x5BBB3724)
+F (.\TM\tm_stm32f4_spi.c)(0x5BBB4611)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\tm_stm32f4_spi.o --omf_browse .\targets\stm32f4_discovery\tm_stm32f4_spi.crf --depend .\targets\stm32f4_discovery\tm_stm32f4_spi.d)
+I (TM\tm_stm32f4_spi.h)(0x5BBB4503)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+I (.\User\defines.h)(0x5B91F9D0)
+I (TM\tm_stm32f4_gpio.h)(0x5BBB3724)
+F (.\User\main.h)(0x5B91F9D0)()
+F (.\User\main.c)(0x5BBB2400)(-c --cpu Cortex-M3 -D__EVAL -g -O2 --apcs=interwork -I .\User -I .\TM -I .\STD_Periph_Drivers -I .\CMSIS-I.\RTE\_STM32F1-Discovery-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD_VL -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -D__ASSEMBLY__ -DKEIL_IDE -DTM_DISCO_STM32F4_DISCOVERY-o .\targets\stm32f4_discovery\main.o --omf_browse .\targets\stm32f4_discovery\main.crf --depend .\targets\stm32f4_discovery\main.d)
+I (.\CMSIS\stm32f10x.h)(0x4D788304)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (.\User\stm32f10x_conf.h)(0x5BBB2242)
+I (.\STD_Periph_Drivers\stm32f10x_gpio.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_rcc.h)(0x4D788204)
+I (.\STD_Periph_Drivers\stm32f10x_spi.h)(0x4D788204)
+I (User\defines.h)(0x5B91F9D0)
+I (.\TM\tm_stm32f4_mfrc522.h)(0x5BBB4503)
+I (.\TM\tm_stm32f4_spi.h)(0x5BBB4503)
+I (.\TM\tm_stm32f4_gpio.h)(0x5BBB3724)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+F (.\User\defines.h)(0x5B91F9D0)()
